@@ -1,6 +1,6 @@
 ### Hi there 👋 I’m Romário.
 
-- 🔭 I’m currently working on front and backend with Javascript and Typescript
+- 🔭 I’m currently working on frontend and backend with Javascript and Typescript
 - 🌱 I’m currently strengthening my knowledge of programming with books:
   -  Clen Code
   -  Domain-Driven Design: Tackling Complexity in the Heart of Software
